@@ -1,4 +1,4 @@
-class CShape 
+ class CShape 
 { 
 public double area() 
 { 
